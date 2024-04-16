@@ -1,5 +1,5 @@
 # ThoughtCoin
-OpenSource repository for development of the ThoughtCoin distributed AI platform.
+OpenSource repository for development of the ThoughtChain distributed AI platform.
 
 
 The AI Future is Distributed, the AI Future is ThoughtChain
